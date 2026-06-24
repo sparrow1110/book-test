@@ -2,12 +2,15 @@
 
 Тестовое задание Backend Developer.
 
+REST API для работы с коллекцией книг, разработанное на FastAPI.
+
 ## Стек
 
 - Python 3.12
 - FastAPI
 - PostgreSQL
 - SQLAlchemy
+- Alembic
 - Docker
 - Swagger/OpenAPI
 
