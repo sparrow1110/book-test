@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Docker
+*.log
+
+# Alembic cache
+alembic/__pycache__/
+
+# OS
+.DS_Store
